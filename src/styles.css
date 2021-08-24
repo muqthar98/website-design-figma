@@ -1,0 +1,145 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  color: #ffff;
+}
+
+.rectangle {
+  background: #c4c4c4;
+  width: 500px;
+  height: 500px;
+  top: 50px;
+  left: 99px;
+  position: absolute;
+  margin-left: 700px;
+  margin-top: 200px;
+}
+
+.rectangle1 {
+  background: #c4c4c4;
+  width: 500px;
+  height: 500px;
+  top: 50px;
+  left: 99px;
+  position: absolute;
+  margin-left: 700px;
+  margin-top: 200px;
+}
+
+.navbar-inner {
+  background: transparent;
+}
+.content {
+  margin-top: 300px;
+  text-align: left;
+}
+
+.btn {
+  border: 3px solid;
+  border-color: linear-gradient(
+    90deg,
+    #ff0c0c -13%,
+    #004171 115.32%,
+    rgba(255, 255, 255, 0) 115.33%
+  );
+}
+
+.button {
+  margin-left: 50px;
+}
+
+.container {
+  display: flex;
+}
+
+.card1 {
+  background: linear-gradient(90deg, #ff0c0c -4.61%, #004171 110.41%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.card2 {
+  background: linear-gradient(90deg, #ff0c0c -4.61%, #004171 110.41%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  padding-left: 20px;
+  margin-left: auto;
+  margin-right: 20px;
+}
+
+.container1 {
+  display: flex;
+}
+
+.card {
+  margin-left: 200px;
+  margin-top: 200px;
+}
+
+.rectangle2 {
+  /* Rectangle 11 */
+  position: absolute;
+  width: 388px;
+  height: 500px;
+  left: 150px;
+  top: 3186px;
+  background: #ffffff;
+  border-radius: 10px;
+}
+
+.rectangle3 {
+  /* Rectangle 6 */
+  position: absolute;
+  width: 350px;
+  height: 181px;
+  left: 600px;
+  top: 3186px;
+  background: #ffffff;
+  border-radius: 10px;
+}
+
+.rectangle4 {
+  /* Rectangle 7 */
+  position: absolute;
+  width: 350px;
+  height: 298px;
+  left: 600px;
+  top: 3388px;
+  background: #ffffff;
+  border-radius: 10px;
+}
+
+.rectangle5 {
+  /* Rectangle 8 */
+  position: absolute;
+  width: 464px;
+  height: 298px;
+  left: 1000px;
+  top: 3186px;
+  background: #ffffff;
+  border-radius: 10px;
+}
+
+.rectangle6 {
+  /* Rectangle 9 */
+  position: absolute;
+  width: 464px;
+  height: 181px;
+  left: 1000px;
+  top: 3504px;
+  background: #ffffff;
+  border-radius: 10px;
+}
+
+.contact {
+  position: absolute;
+  left: 500px;
+  top: 3900px;
+}
